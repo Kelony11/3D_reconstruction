@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE / editor
+.idea/
+.vscode/
+
+# Python environment/config
+.env
+
+# Generated files
+camera_calibration.npz
+
+# Optional: ignore temporary output files
+*.log
